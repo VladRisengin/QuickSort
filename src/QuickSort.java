@@ -52,6 +52,6 @@ public class QuickSort {
         quickSort(x, low, high);
         System.out.println("Стало");
         System.out.println(Arrays.toString(x));
-        System.out.println(5/3);
+       
     }
 }
